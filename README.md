@@ -17,5 +17,13 @@ NAVBAR/
 - Pure HTML and CSS implementation (no JavaScript)
 
 - Lightweight and easy to customize.
+# How to Use
+1.Clone the repository:
 
+  git clone https://github.com/alkashivareddi/NAVBAR.git
+
+
+2.Navigate to the project folder:
+
+  cd NAVBAR
 
