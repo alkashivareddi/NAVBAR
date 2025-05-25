@@ -1,5 +1,9 @@
 # NAVBAR
 A simple and responsive navigation bar built using HTML and CSS. This project demonstrates a clean, mobile-friendly layout with a hamburger menu icon for smaller screens.
+# Technologies Used
+
+- HTML5
+- CSS3
 
 # Project Structure
 ```
