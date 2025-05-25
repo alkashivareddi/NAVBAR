@@ -26,4 +26,7 @@ NAVBAR/
 2.Navigate to the project folder:
 
   cd NAVBAR
+# License
+This project is open-source and available under the MIT License.
+
 
